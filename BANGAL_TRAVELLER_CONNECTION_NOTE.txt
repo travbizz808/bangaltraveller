@@ -1,0 +1,9 @@
+Bangal Traveller CRM Android wrapper
+
+CRM login: https://bangaltraveller.in/crm/login
+Application ID: com.bangaltraveller.crm
+App label: Bangal Traveller CRM
+
+No CRM website/backend/database modifications are included.
+This is the original Android WebView format with the source URL and app identity updated.
+CRM content is provided by the live server after sign-in.
